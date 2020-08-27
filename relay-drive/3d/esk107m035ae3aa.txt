@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartVersion";"1.0.2";"";
+"SUPPLIER";"KEMET";"";
+"TraceParts.PartStatus";"Published";"";
+"DEFAULT_LONG_DESCRIPTION";"Capacitor Electrolytic Radial 100uF 35V";"";
+"RS_STOCK_NUMBER";"8705854";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.InstanceId";"10-04092019-1322471SZG34M0MO6IK0GTZGSV3NOTL";"";
+"TraceParts.PartTitle";"Capacitor Electrolytic Radial 100uF 35V";"";
+"MPN_KITMA";"ESK107M035AE3AA";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartNumber";"10-04092019-132247";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:/F_RS_COMPONENTS/PSB_346947/PSSS_432964/PSS_432965/PSF_432966/10-04092019-132247";"";

@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartVersion";"1.0.5";"";
+"SUPPLIER";"KEMET";"";
+"TraceParts.PartStatus";"Published";"";
+"DEFAULT_LONG_DESCRIPTION";"1210 C0G ceramic capacitor, 50V 12nF";"";
+"RS_STOCK_NUMBER";"148086";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.InstanceId";"10-07092016-1122081UNP6N0PJ5C3CNU318IGA8KX2";"";
+"TraceParts.PartTitle";"1210 C0G ceramic capacitor, 50V 12nF";"";
+"MPN_KITMA";"C1210C123J5GACTU";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartNumber";"10-07092016-112208";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:/F_RS_COMPONENTS/PSB_346947/PSSS_432964/PSS_432965/PSF_432971/10-07092016-112208";"";

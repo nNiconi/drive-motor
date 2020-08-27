@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-03022020-059221";"";
+"REFERENCE";"BZX84-A3V3,215";"";
+"TraceParts.PartTitle";"Zener Diode SOT23 (3-Pin) - BZX84-A3V3,215";"";
+"TraceParts.InstanceId";"33-03022020-05922122C8BVIZBMA3VNFLAOXOZLJJZ";"";
+"DESIGN";"Zener Diode SOT23 (3-Pin) - BZX84-A3V3,215";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Nexperia";"";
+"TraceParts.PartVersion";"1.0.8";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"NEXPERIA:33-03022020-059221";"";
